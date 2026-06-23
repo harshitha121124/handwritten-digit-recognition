@@ -90,6 +90,7 @@ Confidence Score Display
 
 ---
 
+<<<<<<< HEAD
 <h2>Application Demo</h2>
 
 <p align="center">
@@ -111,6 +112,8 @@ Confidence Score Display
 - Real-time predictions
 - Confidence score display
 
+=======
+>>>>>>> 92a0df99441aaf58430bef0cbf909ece4b3372e0
 ## 📁 Project Structure
 
 ```text
