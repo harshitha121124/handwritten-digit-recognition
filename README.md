@@ -90,6 +90,27 @@ Confidence Score Display
 
 ---
 
+<h2>Application Demo</h2>
+
+<p align="center">
+  <img src="assets/app_home.png" width="400">
+  <img src="assets/digit_prediction.png" width="400">
+</p>
+
+<p align="center">
+  <img src="assets/processed_digit.png" width="400">
+</p>
+
+---
+
+## Features
+
+- CNN-based digit recognition
+- Interactive drawing canvas
+- OpenCV preprocessing
+- Real-time predictions
+- Confidence score display
+
 ## 📁 Project Structure
 
 ```text
