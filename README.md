@@ -88,7 +88,7 @@ Digit Classification
 ↓
 Confidence Score Display
 
----
+
 <h2>Application Demo</h2>
 
 <p align="center">
@@ -100,7 +100,6 @@ Confidence Score Display
   <img src="assets/processed_digit.png" width="400">
 </p>
 
----
 
 ## Features
 
@@ -112,7 +111,6 @@ Confidence Score Display
 
 ## 📁 Project Structure
 
-```text
 Handwritten-Digit-Recognition/
 │
 ├── assets/
@@ -131,7 +129,6 @@ Handwritten-Digit-Recognition/
 ├── train_model.py
 ├── requirements.txt
 └── README.md
-```
 
 ## ⚙️ Installation
 
